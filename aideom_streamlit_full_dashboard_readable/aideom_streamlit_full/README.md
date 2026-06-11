@@ -1,6 +1,5 @@
 # AIDEOM-VN Streamlit Dashboard
 
-Bản đã chỉnh tương phản màu chữ để không bị trùng màu nền.
 
 ## Chạy local
 ```bash
